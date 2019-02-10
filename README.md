@@ -20,7 +20,7 @@ Finally, check that the web server is running by typing this address in your web
 
 [localhost:4000](https://localhost:4000)
 
-Configure the website in *_config.yml* and add your posts in the *_posts* folder based on the help post content. For more information about adding articles, see https://lukalafaye.github.io/Jekyll-MarkDown/help/
+Configure the website in *_config.yml* and add your posts in the *_posts* folder based on the help post content. For more information about adding articles, see https://lukalafaye.github.io/Jekyll-Markdown/help/
 
 # Built With
 
