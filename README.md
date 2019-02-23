@@ -51,4 +51,8 @@ See also the list of [contributors](https://github.com/lukalafaye/Jekyll-Markdow
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-Copyright © 2019 Luka Lafaye de Micheaux | All Rights Reserved.
+---
+
+**Copyright © 2019 Luka Lafaye de Micheaux | All Rights Reserved.**
+
+---
