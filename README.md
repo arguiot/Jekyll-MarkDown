@@ -53,6 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Copyright © 2019 Luka Lafaye de Micheaux | All Rights Reserved.**
-
----
+<p align="center">Copyright © 2019 Luka Lafaye de Micheaux | All Rights Reserved.</p>
