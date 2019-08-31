@@ -45,7 +45,7 @@ See also the list of [contributors](https://github.com/lukalafaye/Jekyll-Markdow
 
 * **Lucas Gruwez** - *Inspiration* - [**@lucasgruwez**](https://github.com/lucasgruwez)   
 * **Arthur Guiot** - *Advices* - [**@arguiot**](https://github.com/arguiot)
-* **Rémy Samkocwa** - *Improved README.md* - [**@remyskw**](https://github.com/remyskw)
+* **Rémy** - *Improved README.md* - [**@remyskw**](https://github.com/remyskw)
 
 # License
 
